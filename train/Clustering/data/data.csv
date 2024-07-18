@@ -1,0 +1,105 @@
+﻿ID,Prompt,SUM,MEM,Time,isSeq,Mdoel
+0,帮我绘制出sock-shop应用的服务依赖图,1602.5,1626,35,0,0
+1,Prometheus为什么可以收集到系统级信息？,336.5,684,8.5,0,0
+2,conda activate chatglm; cd path; python api.py这组命令是什么意思？它用在什么场景,452.5,1008,12,0,0
+3,用数学公式推导一下拉格朗日中值定理,1555.5,1624,38.5,0,0
+4,http://cgclcfp.cn/deadline.jsp?after=2009-01&rows=30&time=2023-09&page=1 帮我把这个网页上的信息输出来 未实现,279.5,682,6.5,0,0
+5,如何在kubernetes上利用jaeger查看sockshop应用的延迟,2216.5,1624,48,0,0
+6,说一下傅里叶变换和傅里叶级数的关系,543,804,13,0,0
+7,什么是人工智能（AI）？,319,684,8.5,0,0
+8,如何在Python中进行变量赋值和操作？,858.5,964,20,0,0
+9,量子计算是什么以及它如何工作？,438.5,746,11,0,0
+10,如何提高专注力和注意力。,536,1064,12.5,0,0
+11,如何进行机器学习模型的训练和调优？,478.5,766,11.5,0,0
+12,如何处理文本数据，进行文本分类、情感分析等自然语言处理任务？,621.5,844,14.5,0,0
+13,可以给我一些创作诗歌的灵感吗？,402,726,10,0,0
+14,黑洞是什么,328,670,9,0,0
+15,COVID-19疫情有什么最新的发展？,520.5,786,12.5,0,0
+16,量子力学基本概念、波粒二象性、量子纠缠等方面的解释,762.5,962,17.5,0,0
+17,怎么使用条件语句（if、else、elif）来做判断？,802.5,966,18,0,0
+18,最近有哪些重要的抗议活动？第一次未实现，第二次可以,382.5,722,9.5,0,0
+19,可以生成一些有趣的科学实验想法吗？,543,826,13,1,0
+20,给我写一段代码，要求能够实现计算从1到100求和,250.5,644,7,1,0
+21,使用JAVA实现我之前提出的问题,315,186,7,1,0
+22,使用C++实现我之前提出的问题,375.5,334,8,1,0
+23,"帮我总结一下这段话:We propose a parameter server framework for distributed machine learning problems. Both data and workloads are distributed over worker nodes, while the server nodes maintain globally shared parameters, represented as dense or sparse vectors and matrices. The framework manages asynchronous data communication between nodes, and supports flexible consistency models, elastic scalability, and continuous fault tolerance. To demonstrate the scalability of the proposed framework, we show experimental results on petabytes of real data with billions of examples and parameters on problems ranging from Sparse Logistic Regression to Latent Dirichlet Allocation and Distributed Sketching.",204,712,5,1,0
+24,帮我翻译一下上面那段话,212.5,464,4.5,1,0
+25,上面那段话主要是关于什么的？,239,218,4.5,1,0
+26,帮我绘制出sock-shop应用的服务依赖图,497,422,8,0,1
+27,Prometheus为什么可以收集到系统级信息？,354.5,418,6,0,1
+28,conda activate chatglm; cd path; python api.py这组命令是什么意思？它用在什么场景,235.5,418,4.5,0,1
+29,用数学公式推导一下拉格朗日中值定理,2757.5,518,37,0,1
+30,http://cgclcfp.cn/deadline.jsp?after=2009-01&rows=30&time=2023-09&page=1 帮我把这个网页上的信息输出来 未实现,129,426,3.5,0,1
+31,如何在kubernetes上利用jaeger查看sockshop应用的延迟,829.5,434,12.5,0,1
+32,说一下傅里叶变换和傅里叶级数的关系,507.5,424,8,0,1
+33,什么是人工智能（AI）？,206.5,412,4,0,1
+34,如何在Python中进行变量赋值和操作？,1250,452,18,0,1
+35,量子计算是什么以及它如何工作？,484,422,8.5,0,1
+36,如何提高专注力和注意力。,507.5,422,8,0,1
+37,如何进行机器学习模型的训练和调优？,543,424,8.5,0,1
+38,如何处理文本数据，进行文本分类、情感分析等自然语言处理任务？,897,438,13.5,0,1
+39,可以给我一些创作诗歌的灵感吗？,485.5,422,8,0,1
+40,黑洞是什么,315,416,5.5,0,1
+41,COVID-19疫情有什么最新的发展？,697,430,10.5,0,1
+42,量子力学基本概念、波粒二象性、量子纠缠等方面的解释,459.5,422,7.5,0,1
+43,怎么使用条件语句（if、else、elif）来做判断？,770,434,11.5,0,1
+44,最近有哪些重要的抗议活动？,874,438,12.5,0,1
+45,可以生成一些有趣的科学实验想法吗？,782.5,432,11.5,0,1
+46,给我写一段代码，要求能够实现计算从1到100求和,357.5,420,6,1,1
+47,使用JAVA实现我之前提出的问题,386.5,22,5,1,1
+48,使用C++实现我之前提出的问题,400.5,26,5,1,1
+49,"帮我总结一下这段话:We propose a parameter server framework for distributed machine learning problems. Both data and workloads are distributed over worker nodes, while the server nodes maintain globally shared parameters, represented as dense or sparse vectors and matrices. The framework manages asynchronous data communication between nodes, and supports flexible consistency models, elastic scalability, and continuous fault tolerance. To demonstrate the scalability of the proposed framework, we show experimental results on petabytes of real data with billions of examples and parameters on problems ranging from Sparse Logistic Regression to Latent Dirichlet Allocation and Distributed Sketching.",217,480,4.5,1,1
+50,帮我翻译一下上面那段话,209,18,3,1,1
+51,上面那段话主要是关于什么的？,207.5,14,3,1,1
+52,帮我绘制出sock-shop应用的服务依赖图   无法直接绘图s,3900,4000,47.5,0,2
+53,Prometheus为什么可以收集到系统级信息？,299,3034,7,0,2
+54,conda activate chatglm; cd path; python api.py这组命令是什么意思？它用在什么场景,1049.5,3474,15,0,2
+55,用数学公式推导一下拉格朗日中值定理,213,3120,6,0,2
+56,http://cgclcfp.cn/deadline.jsp?after=2009-01&rows=30&time=2023-09&page=1 帮我把这个网页上的信息输出来 未实现,13653.5,6362,156.5,0,2
+57,如何在kubernetes上利用jaeger查看sockshop应用的延迟,17449,7357,197.5,0,2
+58,说一下傅里叶变换和傅里叶级数的关系,3779,3996,45.5,0,2
+59,什么是人工智能（AI）？,979,343,14.5,0,2
+60,如何在Python中进行变量赋值和操作？,17539,6964,198.5,0,2
+61,量子计算是什么以及它如何工作？,6538,4646,77,0,2
+62,如何提高专注力和注意力。,2205,3820,28.5,0,2
+63,如何进行机器学习模型的训练和调优？,6273,4860,73.5,0,2
+64,如何处理文本数据，进行文本分类、情感分析等自然语言处理任务？,6136.5,4260,72,0,2
+65,可以给我一些创作诗歌的灵感吗？,4114,4340,49.5,0,2
+66,黑洞是什么,1759.5,3640,23,0,2
+67,COVID-19疫情有什么最新的发展？,1298.5,3580,23,0,2
+68,量子力学基本概念、波粒二象性、量子纠缠等方面的解释,2899,3966,36.5,0,2
+69,怎么使用条件语句（if、else、elif）来做判断？,3592.5,3994,44.5,0,2
+70,最近有哪些重要的抗议活动？,371.5,3030,8,0,2
+71,可以生成一些有趣的科学实验想法吗？,4663,4260,57,0,2
+72,给我写一段代码，要求能够实现计算从1到100求和,363,3040,8.5,1,2
+73,使用JAVA实现我之前提出的问题,737.5,500,8,1,2
+74,使用C++实现我之前提出的问题,1268.5,352,14,1,2
+75,"帮我总结一下这段话:We propose a parameter server framework for distributed machine learning problems. Both data and workloads are distributed over worker nodes, while the server nodes maintain globally shared parameters, represented as dense or sparse vectors and matrices. The framework manages asynchronous data communication between nodes, and supports flexible consistency models, elastic scalability, and continuous fault tolerance. To demonstrate the scalability of the proposed framework, we show experimental results on petabytes of real data with billions of examples and parameters on problems ranging from Sparse Logistic Regression to Latent Dirichlet Allocation and Distributed Sketching.",1308,3484,18,1,2
+76,帮我翻译一下上面那段话,1692,552,18,1,2
+77,上面那段话主要是关于什么的？,684,366,8,1,2
+78,帮我绘制出sock-shop应用的服务依赖图,3919,5172,47.5,0,3
+79,Prometheus为什么可以收集到系统级信息？,4314.5,5372,52,0,3
+80,conda activate chatglm; cd path; python api.py这组命令是什么意思？它用在什么场景,2383.5,4972,29,0,3
+81,用数学公式推导一下拉格朗日中值定理,11084.5,6350,128,0,3
+82,http://cgclcfp.cn/deadline.jsp?after=2009-01&rows=30&time=2023-09&page=1 帮我把这个网页上的信息输出来   无法直接访问网页信息,699.5,4652,11.5,0,3
+83,如何在kubernetes上利用jaeger查看sockshop应用的延jr,4402,5372,53,0,3
+84,说一下傅里叶变换和傅里叶级数的关系,7415,5722,80.5,0,3
+85,什么是人工智能（AI）？,805,4592,12.5,0,3
+86,如何在Python中进行变量赋值和操作？,11570,6352,133.5,0,3
+87,量子计算是什么以及它如何工作？,2968,4812,37,0,3
+88,如何提高专注力和注意力。,2770.5,5012,35,0,3
+89,如何进行机器学习模型的训练和调优？,5945.5,5372,70,0,3
+90,如何处理文本数据，进行文本分类、情感分析等自然语言处理任务？,6249.5,5372,73.5,0,3
+91,可以给我一些创作诗歌的灵感吗？,4083.5,5172,49,0,3
+92,黑洞是什么,1872.5,4812,24.5,0,3
+93,COVID-19疫情有什么最新的发展？,209,4188,6,0,3
+94,量子力学基本概念、波粒二象性、量子纠缠等方面的解释,8617,5956,100,0,3
+95,怎么使用条件语句（if、else、elif）来做判断？,4042.5,5172,43,0,3
+96,最近有哪些重要的抗议活动？,180,4150,6,0,3
+97,可以生成一些有趣的科学实验想法吗？,3197,5172,39.5,0,3
+98,给我写一段代码，要求能够实现计算从1到100求和,255.5,4238,6.5,1,3
+99,使用JAVA实现我之前提出的问题,872.5,434,9.5,1,3
+100,使用C++实现我之前提出的问题,1486.5,220,16.5,1,3
+101,"帮我总结一下这段话:We propose a parameter server framework for distributed machine learning problems. Both data and workloads are distributed over worker nodes, while the server nodes maintain globally shared parameters, represented as dense or sparse vectors and matrices. The framework manages asynchronous data communication between nodes, and supports flexible consistency models, elastic scalability, and continuous fault tolerance. To demonstrate the scalability of the proposed framework, we show experimental results on petabytes of real data with billions of examples and parameters on problems ranging from Sparse Logistic Regression to Latent Dirichlet Allocation and Distributed Sketching.",1156.5,4612,16,1,3
+102,帮我翻译一下上面那段话,1598.5,380,18,1,3
+103,上面那段话主要是关于什么的？,1451.5,362,16,1,3
