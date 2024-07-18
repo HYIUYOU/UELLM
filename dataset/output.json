@@ -1,0 +1,502 @@
+[
+    {
+        "instruction": "我们如何在日常生活中减少用水？",
+        "input": "",
+        "output": 246
+    },
+    {
+        "instruction": "政府可以采取哪些策略来减少空气污染？",
+        "input": "",
+        "output": 251
+    },
+    {
+        "instruction": "可再生能源的存在对环境有什么影响？",
+        "input": "",
+        "output": 226
+    },
+    {
+        "instruction": "解释神经网络如何学习。",
+        "input": "",
+        "output": 207
+    },
+    {
+        "instruction": "给出一个机器学习算法的例子，并解释它是如何工作的。",
+        "input": "",
+        "output": 393
+    },
+    {
+        "instruction": "描述推荐系统的工作原理",
+        "input": "",
+        "output": 156
+    },
+    {
+        "instruction": "列出人工智能的五个可能应用",
+        "input": "",
+        "output": 298
+    },
+    {
+        "instruction": "列举自然语言处理任务的四个例子",
+        "input": "",
+        "output": 160
+    },
+    {
+        "instruction": "生成一个概括以下文章的创意标题。一份新报告表明二氧化碳水平的增加导致了更高的温度、更极端的天气事件和生物多样性的快速衰退。",
+        "input": "",
+        "output": 53
+    },
+    {
+        "instruction": "生成一份包含十种易于养护的独特盆栽植物的清单",
+        "input": "",
+        "output": 294
+    },
+    {
+        "instruction": "在给定的情况下进行扩展并创造一个故事:从前有一个住在小村庄里的年轻女孩",
+        "input": "",
+        "output": 213
+    },
+    {
+        "instruction": "基于提供的材料提出甜点名称。巧克力、草莓、夏威夷坚果",
+        "input": "",
+        "output": 202
+    },
+    {
+        "instruction": "构建 SQL 查询以满足需求：从表 'sales' 中检索所有记录",
+        "input": "",
+        "output": 105
+    },
+    {
+        "instruction": "总结爱丽丝漫游奇境记的要点",
+        "input": "",
+        "output": 354
+    },
+    {
+        "instruction": "针对海平面上升主题创建一个研究问题",
+        "input": "",
+        "output": 25
+    },
+    {
+        "instruction": "开发一种在线商店的营销策略。",
+        "input": "",
+        "output": 85
+    },
+    {
+        "instruction": "寻找两个二元分类问题的例子。",
+        "input": "",
+        "output": 208
+    },
+    {
+        "instruction": "制作一个有说服力的说辞，为什么人们应该捐赠给慈善机构。",
+        "input": "",
+        "output": 178
+    },
+    {
+        "instruction": "针对产品发布提出五种营销策略。",
+        "input": "",
+        "output": 268
+    },
+    {
+        "instruction": "给出一个需要连续输入值的分类问题的示例？",
+        "input": "",
+        "output": 226
+    },
+    {
+        "instruction": "列出三个描述人的常见形容词",
+        "input": "",
+        "output": 80
+    },
+    {
+        "instruction": "概述以下段落：自1969年以来，美国宇航员一直在探索月球。他们建造了基地，驾驶月球车并收集了样本。",
+        "input": "",
+        "output": 168
+    },
+    {
+        "instruction": "描述你的城市中的三个地方",
+        "input": "",
+        "output": 196
+    },
+    {
+        "instruction": "写一段关于这个人特点的描述：姓名：阿比盖尔\n喜欢的东西：动作电影、法国菜、热衷于商业",
+        "input": "",
+        "output": 59
+    },
+    {
+        "instruction": "列举三个人工智能应用程序",
+        "input": "",
+        "output": 135
+    },
+    {
+        "instruction": "给定问题编写一个等式：计算两个方向相同的力4N和6N的净合力",
+        "input": "",
+        "output": 169
+    },
+    {
+        "instruction": "为给定的博客生成潜在话题列表：营销",
+        "input": "",
+        "output": 524
+    },
+    {
+        "instruction": "计算给定形状的面积：宽为5厘米，高为10厘米的矩形",
+        "input": "",
+        "output": 89
+    },
+    {
+        "instruction": "猜测在给定序列中的下一个元素：3, 5, 7, 9, __",
+        "input": "",
+        "output": 131
+    },
+    {
+        "instruction": "列举一个物品常见的用途：螺丝刀",
+        "input": "",
+        "output": 204
+    },
+    {
+        "instruction": "判断该文章是观点类还是新闻类：报纸报道称政府已宣布决定在该地区部署更多武装部队。",
+        "input": "",
+        "output": 39
+    },
+    {
+        "instruction": "电子邮件信息的三个最重要的组成部分是什么？",
+        "input": "",
+        "output": 48
+    },
+    {
+        "instruction": "告诉我在冬季种植草药的方法。",
+        "input": "",
+        "output": 333
+    },
+    {
+        "instruction": "制作一个包含20个宏观经济指标的列表。",
+        "input": "",
+        "output": 215
+    },
+    {
+        "instruction": "将句子\"Bob和他的家人一起生活\"改写为被动语态。",
+        "input": "",
+        "output": 108
+    },
+    {
+        "instruction": "识别全球变暖对海平面的影响。",
+        "input": "",
+        "output": 149
+    },
+    {
+        "instruction": "确定银的化学符号。",
+        "input": "",
+        "output": 18
+    },
+    {
+        "instruction": "比较并对比莫内和梵高的绘画风格。",
+        "input": "",
+        "output": 171
+    },
+    {
+        "instruction": "编写一个包含书的笑话。",
+        "input": "",
+        "output": 41
+    },
+    {
+        "instruction": "使用自己选择的技巧重写以下句子。我在最终通过了考试时感到非常高兴。",
+        "input": "",
+        "output": 50
+    },
+    {
+        "instruction": "生成一句与谚语“及时行乐”的谚语相关的例子。",
+        "input": "",
+        "output": 104
+    },
+    {
+        "instruction": "生成一篇 500 字的故事，讲述一个发现自己身处一个陌生城市的男人。",
+        "input": "",
+        "output": 538
+    },
+    {
+        "instruction": "生成一个与希望相关的隐喻例子。",
+        "input": "",
+        "output": 74
+    },
+    {
+        "instruction": "想出一个表达感激之情的口号或短语。",
+        "input": "",
+        "output": 152
+    },
+    {
+        "instruction": "提供需要逻辑推理的任务的示例。",
+        "input": "",
+        "output": 443
+    },
+    {
+        "instruction": "写3-4句关于使用在线日程安排的好处。",
+        "input": "",
+        "output": 131
+    },
+    {
+        "instruction": "确定一个机器学习算法的例子。",
+        "input": "",
+        "output": 400
+    },
+    {
+        "instruction": "机器学习中聚类的目的是什么？",
+        "input": "",
+        "output": 163
+    },
+    {
+        "instruction": "生成一个例子来说明情感分析的工作原理。",
+        "input": "",
+        "output": 286
+    },
+    {
+        "instruction": "描述监督学习的概念。",
+        "input": "",
+        "output": 141
+    },
+    {
+        "instruction": "描述使用GPT模型生成自然语言文本的过程。",
+        "input": "",
+        "output": 254
+    },
+    {
+        "instruction": "提供一個自然語言處理可以使用的示例。",
+        "input": "",
+        "output": 131
+    },
+    {
+        "instruction": "命名一个可以用于自动化手动任务的工具。",
+        "input": "",
+        "output": 264
+    },
+    {
+        "instruction": "描述风险管理框架。",
+        "input": "",
+        "output": 344
+    },
+    {
+        "instruction": "编写一个函数，用于查找给定数组的最大元素。int array[] = {8, 3, 5, 9, 3, 1, 5};",
+        "input": "",
+        "output": 188
+    },
+    {
+        "instruction": "如何向一个群体介绍自己最好的方式？",
+        "input": "",
+        "output": 81
+    },
+    {
+        "instruction": "在商业报告中最重要的要素是什么？",
+        "input": "",
+        "output": 67
+    },
+    {
+        "instruction": "构建一个查询，选择一张表中`price`大于$100的记录。",
+        "input": "",
+        "output": 58
+    },
+    {
+        "instruction": "为 Web 应用程序制定安全策略。",
+        "input": "",
+        "output": 90
+    },
+    {
+        "instruction": "解释如何设计软件架构。",
+        "input": "",
+        "output": 283
+    },
+    {
+        "instruction": "将给定的数字列表按从小到大的顺序排序。2, 3, 5, 8, 6, 4",
+        "input": "",
+        "output": 179
+    },
+    {
+        "instruction": "如何创建电子邮件模板？",
+        "input": "",
+        "output": 182
+    },
+    {
+        "instruction": "计算半径为5，高度为10的圆锥的表面积。",
+        "input": "",
+        "output": 199
+    },
+    {
+        "instruction": "开发一种算法来在列表中搜索特定项。",
+        "input": "",
+        "output": 525
+    },
+    {
+        "instruction": "书写两个角色之间讨论文章的短对话。在最近的一项调查中，90%的参与者表示自我保健对他们的整体健康和幸福感很重要。",
+        "input": "",
+        "output": 221
+    },
+    {
+        "instruction": "提炼文章要点，形成简明扼要的表述。最近的一项调查显示，90%的参与者认为自我关爱对于整体健康和幸福感至关重要。",
+        "input": "",
+        "output": 102
+    },
+    {
+        "instruction": "确定秘鲁的首都。",
+        "input": "",
+        "output": 39
+    },
+    {
+        "instruction": "生成一个设计，为一家制造消费电子产品的公司设计标志。",
+        "input": "",
+        "output": 170
+    },
+    {
+        "instruction": "写一条关于人工智能的推文。",
+        "input": "",
+        "output": 199
+    },
+    {
+        "instruction": "已知底边和相对的高，确定三角形的面积。底边长度：10厘米\n高度：8厘米",
+        "input": "",
+        "output": 123
+    },
+    {
+        "instruction": "写出三个比喻来描述爱。",
+        "input": "",
+        "output": 164
+    },
+    {
+        "instruction": "比较和对比英语和普通话。",
+        "input": "",
+        "output": 273
+    },
+    {
+        "instruction": "生成关于\"如何学习在线课程\"的博客文章",
+        "input": "",
+        "output": 436
+    },
+    {
+        "instruction": "最近的金融危机是在哪一年开始的？",
+        "input": "",
+        "output": 23
+    },
+    {
+        "instruction": "告诉我一个有关电脑的笑话。",
+        "input": "",
+        "output": 11
+    },
+    {
+        "instruction": "将短语“Let's have fun”翻译成西班牙语",
+        "input": "",
+        "output": 47
+    },
+    {
+        "instruction": "说出一种堆肥材料",
+        "input": "",
+        "output": 58
+    },
+    {
+        "instruction": "描述一个初中生的典型一天。",
+        "input": "",
+        "output": 639
+    },
+    {
+        "instruction": "讲述一个小老鼠学习如何飞翔的故事。",
+        "input": "",
+        "output": 323
+    },
+    {
+        "instruction": "分析以下文本并确定它是哪种类型的文本。山坡上的火势迅速蔓延，摧毁了城镇的大部分。",
+        "input": "",
+        "output": 97
+    },
+    {
+        "instruction": "解释短语“生活就像一盒巧克力”.",
+        "input": "",
+        "output": 132
+    },
+    {
+        "instruction": "使用关系型数据库的主要优点是什么？",
+        "input": "",
+        "output": 305
+    },
+    {
+        "instruction": "用什么术语来描述两个公司联合起来创建一个更大的公司？",
+        "input": "",
+        "output": 50
+    },
+    {
+        "instruction": "描述一位青少年在疫情期间的生活。",
+        "input": "",
+        "output": 294
+    },
+    {
+        "instruction": "以下句子是真是假？科学家预测全球变暖将导致未来更多的干旱？",
+        "input": "",
+        "output": 87
+    },
+    {
+        "instruction": "描述媒体在民主中的角色。",
+        "input": "",
+        "output": 148
+    },
+    {
+        "instruction": "列举降低一次性塑料使用的五种方法。",
+        "input": "",
+        "output": 109
+    },
+    {
+        "instruction": "机器学习的数据如何收集？",
+        "input": "",
+        "output": 250
+    },
+    {
+        "instruction": "比较和对比合成纤维和天然纤维的特征。",
+        "input": "",
+        "output": 316
+    },
+    {
+        "instruction": "列举消费者决策过程的五个阶段。",
+        "input": "",
+        "output": 198
+    },
+    {
+        "instruction": "列出使用GPT在自然语言处理任务中的四个优点。",
+        "input": "",
+        "output": 169
+    },
+    {
+        "instruction": "虚拟现实的优点是什么？",
+        "input": "",
+        "output": 182
+    },
+    {
+        "instruction": "设计一项培训练习，帮助员工变得更有创造力。",
+        "input": "",
+        "output": 246
+    },
+    {
+        "instruction": "计算机科学中生产者-消费者模式的目的是什么？",
+        "input": "",
+        "output": 252
+    },
+    {
+        "instruction": "列举编写最佳实践代码的五个规则。",
+        "input": "",
+        "output": 247
+    },
+    {
+        "instruction": "解释人工神经网络的概念。",
+        "input": "",
+        "output": 233
+    },
+    {
+        "instruction": "描述自动驾驶车辆的生产过程。",
+        "input": "",
+        "output": 335
+    },
+    {
+        "instruction": "不属于网络犯罪的是什么？",
+        "input": "",
+        "output": 71
+    },
+    {
+        "instruction": "将科学计数法表示的数12.5转化为十进制表示法。",
+        "input": "",
+        "output": 194
+    },
+    {
+        "instruction": "生成创新性解决方案以减少食品浪费。",
+        "input": "",
+        "output": 273
+    }
+]
