@@ -1,4 +1,4 @@
-![logo](README.assets/logo.png)
+<p align="center">   <img src="README.assets/logo.png" alt="Image description" width="300"> </p>
 <h4 align="center">
 A Unified and Efficient Approach for Large
 Language Model Inference Serving
