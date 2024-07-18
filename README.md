@@ -1,4 +1,4 @@
-<p align="center"> <img src="README.assets/logo.svg" alt="Image description" width="500"> </p>
+<p align="center"> <img src="logo.svg" alt="Image description" width="500"> </p>
 <h4 align="center">
 A Unified and Efficient Approach for Large
 Language Model Inference Serving
