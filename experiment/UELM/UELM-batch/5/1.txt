@@ -1,0 +1,16 @@
+There are 100 instructions in total.
+Loading checkpoint shards: 100%|█████████████████████████████| 7/7 [00:07<00:00,  1.14s/it]
+There are 10 groups in total.
+outputs torch.Size([10, 455])
+outputs torch.Size([10, 353])
+outputs torch.Size([10, 366])
+outputs torch.Size([10, 325])
+outputs torch.Size([10, 460])
+outputs torch.Size([10, 487])
+outputs torch.Size([10, 821])
+outputs torch.Size([10, 338])
+outputs torch.Size([10, 625])
+outputs torch.Size([10, 386])
+ODBS time: 255.6967225074768
+ODBS Default Rate: 0.25
+==========================================================

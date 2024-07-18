@@ -1,0 +1,13 @@
+outputs torch.Size([10, 989])
+outputs torch.Size([10, 465])
+outputs torch.Size([10, 252])
+outputs torch.Size([10, 312])
+outputs torch.Size([10, 413])
+outputs torch.Size([10, 511])
+outputs torch.Size([10, 410])
+outputs torch.Size([10, 457])
+outputs torch.Size([10, 315])
+outputs torch.Size([10, 341])
+baseline time: 127.09233522415161
+baseline Default Rate: 0.24
+==========================================================

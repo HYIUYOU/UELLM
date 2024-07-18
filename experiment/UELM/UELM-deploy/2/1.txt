@@ -1,0 +1,14 @@
+Loading checkpoint shards: 100%|█████████████████████████████| 7/7 [00:08<00:00,  1.15s/it]
+outputs torch.Size([10, 351])
+outputs torch.Size([10, 1003])
+outputs torch.Size([10, 267])
+outputs torch.Size([10, 342])
+outputs torch.Size([10, 585])
+outputs torch.Size([10, 686])
+outputs torch.Size([10, 322])
+outputs torch.Size([10, 498])
+outputs torch.Size([10, 284])
+outputs torch.Size([10, 384])
+baseline time: 136.94871592521667
+baseline Default Rate: 0.3
+==========================================================

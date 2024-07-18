@@ -1,0 +1,23 @@
+Loading checkpoint shards: 100%|█████████████████████████████| 7/7 [00:08<00:00,  1.15s/it]
+Stress Testing.....
+outputs torch.Size([10, 563])
+outputs torch.Size([10, 729])
+outputs torch.Size([10, 162])
+outputs torch.Size([10, 307])
+outputs torch.Size([10, 809])
+Stress testing is over
+Inference Service.....
+Loading checkpoint shards: 100%|█████████████████████████████| 7/7 [00:07<00:00,  1.12s/it]
+outputs torch.Size([10, 962])
+outputs torch.Size([10, 479])
+outputs torch.Size([10, 2013])
+outputs torch.Size([10, 285])
+outputs torch.Size([10, 477])
+outputs torch.Size([10, 640])
+outputs torch.Size([10, 324])
+outputs torch.Size([10, 366])
+outputs torch.Size([10, 271])
+outputs torch.Size([10, 316])
+baseline time: 346.08153223991394
+baseline Default Rate: 0.52
+==========================================================

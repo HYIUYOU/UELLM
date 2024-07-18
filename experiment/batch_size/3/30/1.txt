@@ -1,0 +1,7 @@
+Loading checkpoint shards: 100%|██████████████████████████████████████████████████████| 7/7 [00:08<00:00,  1.25s/it]
+num_gpus: 3
+len(querys): 30
+len(grouped_instructions): 30
+outputs torch.Size([30, 2013])
+baseline time: 614.3528046607971
+==========================================================
