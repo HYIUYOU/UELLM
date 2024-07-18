@@ -1,0 +1,49 @@
+<svg width="500" height="130" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="fx0" x="-10%" y="-10%" width="120%" height="120%" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse">
+   <feGaussianBlur stdDeviation="1.53293 1.53293"/>
+  </filter>
+  <filter id="fx1" x="-10%" y="-10%" width="120%" height="120%" filterUnits="userSpaceOnUse" primitiveUnits="userSpaceOnUse">
+   <feGaussianBlur stdDeviation="1.65361 1.65361"/>
+  </filter>
+  <linearGradient x1="0.96437" y1="0.49961" x2="-0.05383" y2="0.49961" spreadMethod="reflect" id="fill2">
+   <stop offset="0" stop-color="#001132"/>
+   <stop offset="0.21" stop-color="#001132"/>
+   <stop offset="0.73932" stop-color="#00091A"/>
+   <stop offset="1" stop-color="#00091A"/>
+  </linearGradient>
+  <linearGradient x1="0.78267" y1="0.36677" x2="-0.03805" y2="0.36677" spreadMethod="reflect" id="fill3">
+   <stop offset="0" stop-color="#D9D9D9"/>
+   <stop offset="0.01282" stop-color="#D9D9D9"/>
+   <stop offset="0.21" stop-color="#7F7F7F"/>
+   <stop offset="0.54" stop-color="#002060"/>
+   <stop offset="0.88" stop-color="#001132"/>
+   <stop offset="1" stop-color="#001132"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_1" stroke="null">
+   <rect x="-93" y="-195" width="1280" height="720" fill="#FFFFFF" id="svg_2" stroke="null"/>
+   <g filter="url(#fx0)" id="svg_3" stroke="null">
+    <g id="svg_4" stroke="null">
+     <path d="m45.6257,23.70494l28.804,0l-25.51,74.96396l59.268,0l-17.216,15.366l-76.086,0l30.74,-90.32996z" fill="#FF0000" fill-rule="evenodd" id="svg_5" stroke="null"/>
+    </g>
+   </g>
+   <path d="m42.374,20.453l28.804,0l-25.51,74.964l59.268,0l-17.216,15.366l-76.086,0l30.74,-90.33z" fill="url(#fill2)" fill-rule="evenodd" id="svg_6" stroke="null"/>
+   <text fill="#000000" fill-opacity="0" font-family="Arial,Arial_MSFontService,sans-serif" font-size="90.33" x="11.634" y="99.492" id="svg_7" stroke="null">L</text>
+   <g filter="url(#fx1)" id="svg_8" stroke="null">
+    <g id="svg_9" stroke="null">
+     <path d="m113.7287,23.78225l101.2583,0l-17.104,15.36605l-60.4523,0l-7.548,22.18l66.4263,0l-5.23,15.364l-66.4263,0l-7.504,22.054l60.1083,0l6.738,15.366l-101.00627,0l30.73997,-90.33005z" fill="#FF0000" fill-rule="evenodd" id="svg_10" stroke="null"/>
+    </g>
+   </g>
+   <path d="m110.221,20.274l101.258,0l-17.104,15.366l-60.452,0l-7.548,22.18l66.426,0l-5.23,15.364l-66.426,0l-7.504,22.054l60.108,0l6.738,15.366l-101.006,0l30.74,-90.33z" fill="url(#fill3)" fill-rule="evenodd" id="svg_11" stroke="null"/>
+   <text fill="#000000" fill-opacity="0" font-family="Arial,Arial_MSFontService,sans-serif" font-size="90.33" x="79.481" y="99.313" id="svg_12" stroke="null">E</text>
+   <text font-family="ADLaM Display,ADLaM Display_MSFontService,sans-serif" font-weight="700" font-size="128" y="114" x="223.647" id="svg_13" stroke="null">LLM</text>
+   <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="128" y="355" x="-87.32934" id="svg_14" stroke="null">🦥</text>
+   <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="64" y="303" x="592.88202" id="svg_15" stroke="null">✈️</text>
+   <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="53" y="364" x="231.918" id="svg_16" stroke="null">✈️</text>
+   <text font-family="Segoe UI Emoji,Segoe UI Emoji_MSFontService,sans-serif" font-weight="400" font-size="37" y="404" x="231.918" id="svg_17" stroke="null">✈️</text>
+  </g>
+ </g>
+</svg>
