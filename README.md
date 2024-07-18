@@ -1,5 +1,4 @@
 <p align="center">   <img src="README.assets/lpg.png" alt="Image description" width="300"> </p>
-
 <h4 align="center">
 A Unified and Efficient Approach for Large
 Language Model Inference Serving
@@ -76,7 +75,7 @@ pip install requirements.txt
 **We have also open sourced our fine-tuned LLM data set and related scripts. You can quickly fine-tune your own model according to the following process.**
 
 ```shell
-cd ChatGLM-Finetuning
+cd finetuning
 pip install requirements.txt
 ```
 
