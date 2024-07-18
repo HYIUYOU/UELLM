@@ -446,7 +446,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3 deepspeed --master_port 520 train.py \
 | ChaGLM2 | zero2           | No      | Yes                    | 1          | 1560       | 4              | 19G             |
 | ChaGLM2 | zero2           | No      | No                     | 1          | 1560       | 4              | 39G             |
 
-#### 3. Lora方法
+#### 3. Lora
 
 The Lora method is to add additional low-rank matrices in parallel to specified parameters (weight matrices) on a large language model, and during the model training process, only train the parameters of the additional parallel low-rank matrices.
 When the "rank value" is much smaller than the original parameter dimension, the amount of new low-rank matrix parameters will be very small. When tuning downstream tasks, only small parameters need to be trained, but better performance results can be obtained.
