@@ -72,7 +72,7 @@ pip install requirements.txt
 
 ## one more thing
 
-**We have also open sourced our fine-tuned LLM data set and related scripts. You can quickly fine-tune your own model according to the following process.**
+**We reconstructed the LLM data set and related scripts based on https://github.com/liucongg/ChatGLM-Finetuning/tree/master. You can quickly fine-tune your model by following the process below.**
 
 ```shell
 cd finetuning
